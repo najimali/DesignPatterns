@@ -1,4 +1,4 @@
-package FactoryDesign;
+package SimpleFactoryDesign;
 
 public class Commercial implements Plan {
 

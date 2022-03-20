@@ -1,4 +1,4 @@
-package FactoryDesign;
+package SimpleFactoryDesign;
 
 public interface Plan {
 
